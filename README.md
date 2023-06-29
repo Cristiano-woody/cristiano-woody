@@ -6,7 +6,7 @@
 
 
 
-![Cristiano GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-woody&show_icons=true&theme=dark)
+![Cristiano GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-woody&show_icons=true&theme=drakula)
 
 
 ------------
